@@ -34,12 +34,13 @@ body {
 }
 
 #menu {
-    background-color: rgba(28, 43, 75, 1);
+    background-color: #393749;
     color: #fff;
     font-size: 12px;
     font-weight: 900;
     letter-spacing: 1px;
-    min-height: 70px;
+    min-height: 50px;
+    margin-bottom: 10px;
 }
 
 
@@ -49,7 +50,7 @@ body {
 
     .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > li > a:hover {
         color: #FFF;
-        padding: 22px 10px;
+        padding: 20px 10px;
     }
 
 
@@ -68,8 +69,8 @@ body {
 }
 
     .home-sec .overlay {
-        background: rgba(38, 57, 88, 0.89);
-        min-height: 500px;
+        background: rgba(0, 0, 0, 0);
+        min-height: 680px;
     }
 
     .home-sec h1 {
