@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd39ea09-b6c1-47a5-bf93-fbd35eef9e50" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/Social/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/Social/google-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/Social/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/building.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/contact.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/faculty/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/faculty/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/faculty/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/faculty/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/logo180-50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/css/flexslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/js/jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/js/jquery.easing.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/js/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/js/scrollReveal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/storeSMS.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/d.iml" afterPath="$PROJECT_DIR$/.idea/Saankhya.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/bin/www" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/saankhya.com/index.html" afterPath="$PROJECT_DIR$/routes/saankhya.com/index.html" />
     </list>
     <ignored path="d.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,17 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/saankhya.com/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="374">
+              <caret line="121" column="108" selection-start-line="121" selection-start-column="108" selection-end-line="121" selection-end-column="108" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/saankhya.com/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
@@ -106,8 +72,8 @@
         <option value="$PROJECT_DIR$/routes/storeSMS.js" />
         <option value="$PROJECT_DIR$/routes/saankhya.com/course-archive.html" />
         <option value="$PROJECT_DIR$/routes/saankhya.com/course-single.html" />
-        <option value="$PROJECT_DIR$/routes/saankhya.com/index.html" />
         <option value="$PROJECT_DIR$/routes/saankhya.com/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/routes/saankhya.com/index.html" />
       </list>
     </option>
   </component>
@@ -272,18 +238,18 @@
       <workItem from="1490468803596" duration="408000" />
       <workItem from="1490504745181" duration="4362000" />
       <workItem from="1490806846085" duration="3208000" />
-      <workItem from="1492137387144" duration="2562000" />
+      <workItem from="1492137387144" duration="2980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22177000" />
+    <option name="totallyTimeSpent" value="22595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1280" height="732" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2700556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2700556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47887325" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -646,19 +612,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/saankhya.com/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/saankhya.com/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/saankhya.com/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="121" column="108" selection-start-line="121" selection-start-column="108" selection-end-line="121" selection-end-column="108" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
