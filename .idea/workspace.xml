@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd39ea09-b6c1-47a5-bf93-fbd35eef9e50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/saankhya.com/index.html" afterPath="$PROJECT_DIR$/routes/saankhya.com/index.html" />
     </list>
     <ignored path="d.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/saankhya.com/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="468" column="41" selection-start-line="468" selection-start-column="41" selection-end-line="468" selection-end-column="41" />
+            <state relative-caret-position="194">
+              <caret line="489" column="29" selection-start-line="489" selection-start-column="29" selection-end-line="489" selection-end-column="29" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -52,8 +51,8 @@
                 <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#textarea#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1492249242000" expanded="false" signature="22958:22970" ph="..." />
-                <marker date="1492249242000" expanded="false" signature="25508:25523" ph="..." />
+                <marker date="1492249607000" expanded="false" signature="22958:22970" ph="..." />
+                <marker date="1492249607000" expanded="false" signature="25508:25523" ph="..." />
               </folding>
             </state>
           </provider>
@@ -348,18 +347,18 @@
       <workItem from="1490468803596" duration="408000" />
       <workItem from="1490504745181" duration="4362000" />
       <workItem from="1490806846085" duration="3208000" />
-      <workItem from="1492137387144" duration="18973000" />
+      <workItem from="1492137387144" duration="19268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38588000" />
+    <option name="totallyTimeSpent" value="38883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1280" height="732" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2700556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2700556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47887325" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -735,8 +734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/saankhya.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="468" column="41" selection-start-line="468" selection-start-column="41" selection-end-line="468" selection-end-column="41" />
+        <state relative-caret-position="194">
+          <caret line="489" column="29" selection-start-line="489" selection-start-column="29" selection-end-line="489" selection-end-column="29" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -748,8 +747,8 @@
             <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#textarea#0;n#div#2;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1492249242000" expanded="false" signature="22958:22970" ph="..." />
-            <marker date="1492249242000" expanded="false" signature="25508:25523" ph="..." />
+            <marker date="1492249607000" expanded="false" signature="22958:22970" ph="..." />
+            <marker date="1492249607000" expanded="false" signature="25508:25523" ph="..." />
           </folding>
         </state>
       </provider>
