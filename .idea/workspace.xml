@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd39ea09-b6c1-47a5-bf93-fbd35eef9e50" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/call2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/saankhya.com/assets/img/whatsapp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/saankhya.com/index.html" afterPath="$PROJECT_DIR$/routes/saankhya.com/index.html" />
     </list>
     <ignored path="d.iws" />
@@ -42,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/saankhya.com/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="303" column="65" selection-start-line="303" selection-start-column="65" selection-end-line="303" selection-end-column="65" />
+            <state relative-caret-position="194">
+              <caret line="57" column="123" selection-start-line="57" selection-start-column="123" selection-end-line="57" selection-end-column="123" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -62,9 +58,9 @@
                 <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1492252499000" expanded="false" signature="23284:23296" ph="..." />
-                <marker date="1492252499000" expanded="false" signature="25834:25849" ph="..." />
-                <marker date="1492252499000" expanded="false" signature="30844:30855" ph="..." />
+                <marker date="1492252601000" expanded="false" signature="23278:23290" ph="..." />
+                <marker date="1492252601000" expanded="false" signature="25828:25843" ph="..." />
+                <marker date="1492252601000" expanded="false" signature="30838:30849" ph="..." />
               </folding>
             </state>
           </provider>
@@ -262,12 +258,12 @@
       <workItem from="1490468803596" duration="408000" />
       <workItem from="1490504745181" duration="4362000" />
       <workItem from="1490806846085" duration="3208000" />
-      <workItem from="1492137387144" duration="21728000" />
+      <workItem from="1492137387144" duration="21784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41343000" />
+    <option name="totallyTimeSpent" value="41399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1280" height="732" extended-state="0" />
@@ -649,8 +645,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/saankhya.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="303" column="65" selection-start-line="303" selection-start-column="65" selection-end-line="303" selection-end-column="65" />
+        <state relative-caret-position="194">
+          <caret line="57" column="123" selection-start-line="57" selection-start-column="123" selection-end-line="57" selection-end-column="123" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -669,9 +665,9 @@
             <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1492252499000" expanded="false" signature="23284:23296" ph="..." />
-            <marker date="1492252499000" expanded="false" signature="25834:25849" ph="..." />
-            <marker date="1492252499000" expanded="false" signature="30844:30855" ph="..." />
+            <marker date="1492252601000" expanded="false" signature="23278:23290" ph="..." />
+            <marker date="1492252601000" expanded="false" signature="25828:25843" ph="..." />
+            <marker date="1492252601000" expanded="false" signature="30838:30849" ph="..." />
           </folding>
         </state>
       </provider>
