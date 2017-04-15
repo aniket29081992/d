@@ -4,7 +4,7 @@ var storeSMS=require('./storeSMS')
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Saankhya' });
 });
 
 router.post('/api/login',storeSMS.storeData);
